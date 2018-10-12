@@ -1,0 +1,115 @@
+/*--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+
+
+/*------ contact -----*/
+.contact {
+	padding: 0.6em 0 5em;
+}
+.contact-head{
+	text-align:left;
+}
+.contact-head h2{
+	font-size: 1.7em;
+	color:#455056;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0.8em 0 0.4em 0;
+}
+.contact-head span{
+	color: #455056;
+}
+.contact-map iframe{
+	min-height:300px;
+	width:100%;
+	border:none;
+	margin:1.5em 0 1em;
+}
+.contact-form-row{
+	margin-bottom:1em;
+}
+.contact-form-row div{
+	width: 32.6%;
+	float: left;
+	margin-right: 1%;
+} 
+.contact-form-row div span,.contact-form-row2  span{
+	font-size:1.2em;
+	color:#2C3E50;
+	font-weight:700;
+	text-transform:uppercase;
+	display:block;
+	padding:0 0 0.5em;
+}
+.contact-form-row div input[type="text"]{
+	width:100%;
+	padding:1em;	
+	font-family: 'Droid Sans', sans-serif;
+	border:1px solid #EEE;
+	-webkit-appearance:none;
+	outline:none;
+	color:#455056;
+	transition:border-color 0.4s;
+	-webkit-transition:border-color 0.4s;
+	-moz-transition:border-color 0.4s;
+	-o-transition:border-color 0.4s;
+	-ms-transition:border-color 0.4s;
+}
+.contact-form-row div input[type="text"]:hover,.contact-form-row2 textarea:hover{
+	border-color:#959697;
+}
+.contact-form-row div:nth-child(3){
+	margin-right:0;
+}
+.contact-form-row2 textarea{
+	width:100%;
+	padding:1em;	
+	font-family: 'Droid Sans', sans-serif;
+	border:1px solid #EEE;
+	-webkit-appearance:none;
+	outline:none;
+	color:#777;
+	min-height:320px;
+	resize:none;
+	transition:border-color 0.4s;
+	-webkit-transition:border-color 0.4s;
+	-moz-transition:border-color 0.4s;
+	-o-transition:border-color 0.4s;
+	-ms-transition:border-color 0.4s;
+}
+.contact-form-row2 {
+	margin-top:1em;
+	align:center;
+}
+.contact-form input[type="submit"]{
+	display: block;
+	background: #313538;
+	padding: 0.7em 1em;
+	font-size:1.2em;
+	text-transform: uppercase;
+	color: #FFF;
+	font-weight: 700;
+	display: inline-block;
+	margin-top: 1em;
+	text-decoration: none;
+	border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	-o-border-radius: 0.5em;
+	-ms-border-radius: 0.5em;
+	border:none;
+	outline:none;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+}
+.contact-form input[type="submit"]:hover{
+	background: #75828f;
+}

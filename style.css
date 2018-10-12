@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+#loginpage{
+	height:250px;
+  margin-top: 80px;
+  margin-left: 335px;
+}
+.textt{
+    width: 250px;
+    height: 32px;
+}
+.user{
+	  position: absolute;
+    margin-left: -41px;
+}
+.pass{
+    position: absolute;
+    margin-left: 27px;
+}
+#btn{
+    width: 80px;
+    height: 32px;
+    border: none;
+    color: white;
+    background-color: #472426;
+    position: absolute;
+    margin-left: -63px;
+    margin-top: -33px;
+	}
+.signupp{
+	  width: 165px;
+    height: 37px;
+    border: none;
+    color: white;
+    background-color: #472426;
+    position: absolute;
+    margin-left: -102px;
+    margin-top: 11px;
+	}
+#msg{
+    color: #472426;
+    font-family: cursive;
+    position: absolute;
+    margin-top: -38px;
+    margin-left: 50px;
+}
+#sign{
+    width: 600px;
+    font-family: cursive;
+    margin-left: 181px;
+    margin-top: 28px;
+	}
+	#sbt{
+    width: 134px;
+    height: 51px;
+    border: none;
+    color: white;
+    background-color: #472426;
+    margin-left: -63px;
+    margin-top: 17px;		}
+		#smsg{
+	  position: absolute;
+    margin-top: -37px;
+    margin-left: -128px;
+		color: #472426;
+		}
+		#wl{
+    color: #472426;
+    font-size: 63px;
+    font-family: cursive;
+    position: absolute;
+    margin-left: -116px;
+	 }
+	 .contentt{
+    width: 100%;
+    margin: 2.333%;
+		background-color:#FFF;
+    padding: 2.333%;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -o-border-radius: 4px;
+    box-shadow: 0px 48px 100px -48px #000000;
+    -o-box-shadow: 0px 48px 100px -48px #000000;
+    -moz-box-shadow: 0px 48px 100px -48px #000000;
+    -webkit-box-shadow: 0px 48px 100px -48px #000000;
+				 }
+				 #io td{
+	        border:3px solid #000000;
+          }
+        #io th{
+          	border:3px solid #000000;
+          }
+					#butn{
+						 width: 80px;
+             height: 32px;
+             border: none;
+             color: white;
+             background-color: #472426;
+					   margin-top: 10px;
+						}
+#add{
+	    margin-left: 306px;
+	}
+#addb{
+	           width: 80px;
+             height: 32px;
+             border: none;
+             color: white;
+             background-color: #472426;
+					   margin-top: 10px;
+						 margin-top: 10px;
+             margin-left: 123px;
+	}
+	#addd{
+	  margin-left: 306px;
+		height:250px;
+		}
+		#bod{
+		width: 34px;
+    height: 36px;
+		}
+		#addbo{
+	           width: 100px;
+             height: 32px;
+             border: none;
+             color: white;
+             background-color: #472426;
+					   margin-top: 10px;
+						 margin-top: 10px;
+             margin-left: 123px;
+	}
